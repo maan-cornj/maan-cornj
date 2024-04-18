@@ -26,7 +26,10 @@ I'm currently involved in:
 - [Gmail](markngl.cornj@gmail.com)
 
 Feel free to connect with me on any platform!
- 
+
+ ## 🚀 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?maan-cornj=maan-cornj&show_icons=true&theme=dark)
 
 <!---
 maan-cornj/maan-cornj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
