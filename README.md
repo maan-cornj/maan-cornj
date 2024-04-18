@@ -11,8 +11,8 @@
 
 ## 📫 Get in Touch
 
-- ![LinkedIn] [LinkedIn](https://www.linkedin.com/in/markngl-cornj/)
-- ![Email] [Email](markngl.cornj@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/markngl-cornj/)
+- [Gmail](markngl.cornj@gmail.com)
 
 Feel free to connect with me on any platform!
  
