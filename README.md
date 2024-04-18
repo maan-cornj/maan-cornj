@@ -11,8 +11,10 @@
 
 ## 📫 Get in Touch
 
-- LinkedIn:(https://www.linkedin.com/in/markngl-cornj/)
-- Email: (mailto:markngl.cornj@gmail.com)
+- ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/markngl-cornj/)
+- ![Email](https://img.icons8.com/color/48/000000/email.png) [Email](markngl.cornj@gmail.com)
+
+Feel free to connect with me on any platform!
 
 
 <!---
