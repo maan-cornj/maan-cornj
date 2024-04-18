@@ -29,8 +29,8 @@ Feel free to connect with me on any platform!
 
  ## 🚀 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?maan-cornj=maan-cornj&show_icons=true&theme=dark)
-
+![maan-cornj's Stats](https://github-readme-stats.vercel.app/api?username=maan-cornj&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![maan-cornj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maan-cornj&theme=tokyonight&hide_border=false)
 <!---
 maan-cornj/maan-cornj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
