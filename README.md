@@ -11,11 +11,11 @@
 
 ## 📫 Get in Touch
 
-- ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/markngl-cornj/)
-- ![Email](https://img.icons8.com/color/48/000000/email.png) [Email](markngl.cornj@gmail.com)
+- ![LinkedIn] [LinkedIn](https://www.linkedin.com/in/markngl-cornj/)
+- ![Email] [Email](markngl.cornj@gmail.com)
 
 Feel free to connect with me on any platform!
-
+ 
 
 <!---
 maan-cornj/maan-cornj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
