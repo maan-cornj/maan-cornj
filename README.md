@@ -18,7 +18,7 @@ I believe in the power of collaboration and continuous learning. Whether it's th
 I'm currently involved in:
 
 1. Library Inventory and Navigation Autonomous Robot: LINAR is a service robot designed to assist librarians and staffs for inventory management and help library patrons to navigate library space and to find the book they wanted to read or borrow.
-2. ELibSync (https://www.figma.com/file/0bxIJD1JrenEWU1po62AtY/eLibSync?type=design&node-id=0%3A1&mode=design&t=OoVPDYsYUU8EAXFE-1): A web design for eLibSync, a locally-hosted website dedicated for Rodriguez Municipal Library and as part of research development of Library Inventory and Autonomous Robot (LINAR).
+2. [ELibSync](https://www.figma.com/file/0bxIJD1JrenEWU1po62AtY/eLibSync?type=design&node-id=0%3A1&mode=design&t=OoVPDYsYUU8EAXFE-1): A web design for eLibSync, a locally-hosted website dedicated for Rodriguez Municipal Library and as part of research development of Library Inventory and Autonomous Robot (LINAR).
    
 ## 📫 Get in Touch
 
