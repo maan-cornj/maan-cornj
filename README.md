@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mark Angelo Cornejo.
+# 👋 Hello, I'am Mark Angelo S. Cornejo
 - 👀 I’m interested in Programming, Embedded Systems, Electronics, and Engineering.
 - 🌱 I’m currently learning UI/UX Design and Web Development
 - 📫 Reach me at markngl.cornj@gmail.com
