@@ -4,9 +4,9 @@
 
 ## 🙍‍♂️ About Me
 
-- 🎓 Currently taking BS Computer Engineering in Colegio de Montalban (4th Year).
+- 🎓 Graduate of BS Computer Engineering at Colegio de Montalban
 - 👀 I’m interested in Programming, Embedded Systems, Electronics, and Engineering.
-- 🌱 I’m currently learning UI/UX Design and Web Development
+- 🌱 I’m currently learning UI/UX Design, Web Development and Computer Science
 - 😄 Pronouns: He/Him
   
 ## 💡 Sharing Knowledge & Ideas
